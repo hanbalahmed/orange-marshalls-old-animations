@@ -1,0 +1,27 @@
+[{
+"modid": "animations",
+"name": "Orange's 1.7 Animations",
+"description": "Bringing back the feel of the old 1.7 Minecraft version in terms of PvP animations!
+Currently featuring
+    - Blockhit animation
+    - Armor turning red upon taking damage
+    - Health not flashing anymore
+    - Bow punching
+    - Rod positioning / scaling
+    - Enchantment glint
+    
+Config Command: /animations",
+"version": "6.7",
+"credits": "Created by OrangeMarshall",
+"logoFile": "logo.png",
+"mcversion": "[1.8.9]",
+"url": "https://minecraft.curseforge.com/projects/old-animations-mod",
+"updateUrl": "",
+"authorList": [ "OrangeMarshall" ],
+"parent":"",
+"screenshots": [],
+"dependencies": [
+     "mod_MinecraftForge"
+]
+}
+]
